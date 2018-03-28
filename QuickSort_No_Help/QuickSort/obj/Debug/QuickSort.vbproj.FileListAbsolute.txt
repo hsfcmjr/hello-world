@@ -1,0 +1,3 @@
+C:\Users\default.SL-MJR\AppData\Local\Temporary Projects\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\default.SL-MJR\Documents\Visual Studio 2015\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\default.SL-MJR\Documents\Visual Studio 2015\Projects\QuickSort_No_Help\QuickSort\bin\Debug\QuickSort.exe.config
